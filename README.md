@@ -4,4 +4,4 @@ Algorithm to tell a user about alternative train ticket options on the
  on popular, high-demand routes by ensuring optimum utilisation of
  unoccupied seats.The confirmed ticket will be updated with an email to
  the user. 
-Language used-Java,Java JFrames,postgres-SQl 
+Language used-Java,Java JFrames,postgres-SQl.
